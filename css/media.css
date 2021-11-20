@@ -1,0 +1,140 @@
+@media(max-width:1024px) {
+
+    .footer-social {
+        margin-bottom: 30px !important;
+    }
+
+    .footer-top-section {
+        padding: 50px 30px !important;
+    }
+
+    .card_section .row {
+        margin-top: calc(-1 * var(--bs-gutter-y)) !important;
+        margin-right: calc(-.5 * var(--bs-gutter-x)) !important;
+        --bs-gutter-x: 1.5rem !important;
+    }
+
+    .main-menu .nav-link {
+        font-size: 12px !important;
+
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+
+}
+
+@media(max-width:768px) {
+    .sidemenu {
+        display: none !important;
+    }
+
+    .header_below .card {
+        margin-bottom: 50px !important;
+    }
+
+    .image_sidebar_ad {
+        display: none !important;
+    }
+
+    .footer-social {
+        margin-bottom: 30px !important;
+    }
+
+    .footer-top-section {
+        padding: 50px 30px !important;
+    }
+
+}
+
+@media(max-width:600px) {
+    .card_section .row {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        --bs-gutter-x: 0 !important;
+    }
+
+    .main_card img {
+        height: auto !important;
+    }
+
+    .news_heading h2 {
+        font-size: 30px !important;
+        line-height: 50px !important;
+    }
+
+    .news {
+        padding-bottom: 0 !important;
+    }
+
+    .footer-social {
+        margin-bottom: 30px !important;
+    }
+
+    .footer-top-section {
+        padding: 50px 30px !important;
+    }
+
+    .section_body {
+        text-align: center !important;
+        padding: 0 !important;
+    }
+
+    .section_body .popup img {
+        height: auto !important;
+        width: 100% !important;
+    }
+
+    .item {
+        height: auto !important;
+
+    }
+
+    .heading h1 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .media {
+        margin-bottom: 20px !important;
+    }
+
+    .image_sidebar_ad {
+        display: none !important;
+    }
+
+    .navbar {
+        padding-top: 5px !important;
+
+    }
+
+    .business .post .post-wrap .image img {
+        height: auto !important;
+    }
+
+    .sidemenu {
+        display: none !important;
+    }
+
+    .logo {
+        text-align: center !important;
+    }
+
+    .breaking-news-section {
+        display: none !important;
+    }
+
+    .below_img_ad img {
+        height: auto !important;
+    }
+
+    .header_below .card {
+        margin-bottom: 30px !important;
+    }
+
+    .img_desc p {
+        display: none;
+    }
+}
